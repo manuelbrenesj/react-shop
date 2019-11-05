@@ -1,0 +1,39 @@
+.heroFather{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+}
+
+.heroMsj{
+    background-image: url(../assets/hero.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+}
+
+.hero-Txt{
+    margin: 300px 0;
+    cursor: pointer;
+}
+
+.heroButton{
+    display: flex;
+}
+
+.heroButton-A{
+    background-color: #CDB79B;
+    padding: 40px 0;
+    width: 100%;
+    text-align: center;
+    cursor: pointer;
+}
+
+.heroButton-B{
+    background-color: #525B66;
+    padding: 40px 0;
+    width: 100%;
+    text-align: center;
+    cursor: pointer;
+}

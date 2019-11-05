@@ -1,0 +1,16 @@
+.all{
+    display: flex;
+    justify-content: center;
+}
+
+.allTxt{
+    color: #333;
+    margin: 40px 0;
+    cursor: pointer;
+}
+
+.categories{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+}

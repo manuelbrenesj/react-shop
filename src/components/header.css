@@ -1,0 +1,40 @@
+header{
+    color: #333;
+}
+
+.navFather{
+    display: flex;
+    justify-content: space-between;
+}
+
+.navChild-A{
+    background-color: #706bbd;
+    margin: 30px;
+    cursor: pointer;
+} 
+
+.navChild-B{
+    display: flex;
+} 
+
+.child-A{
+    background-color: #cf903d;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin: 0 20px;
+    cursor: pointer;
+} 
+
+.child-B{
+    background-color: #508d2d;
+    text-decoration: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    margin: 0 20px;
+    cursor: pointer;
+} 

@@ -1,0 +1,26 @@
+[
+    {
+        "icon": "https://image.flaticon.com/icons/svg/286/286964.svg",
+        "category": "Camisas"
+    },
+    {
+        "icon": "https://image.flaticon.com/icons/svg/863/863684.svg",
+        "category": "Jackets"
+    },
+    {
+        "icon": "https://image.flaticon.com/icons/svg/863/863684.svg",
+        "category": "Pantalones"
+    },
+    {
+        "icon": "https://image.flaticon.com/icons/svg/863/863684.svg",
+        "category": "Sueters"
+    },
+    {
+        "icon": "https://image.flaticon.com/icons/svg/863/863684.svg",
+        "category": "Zapatos"
+    },
+    {
+        "icon": "https://image.flaticon.com/icons/svg/863/863684.svg",
+        "category": "Accesorios"
+    }
+]
