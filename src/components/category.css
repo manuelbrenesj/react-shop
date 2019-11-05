@@ -15,6 +15,7 @@
 
 .category:hover{
     background-color: #7fc4f1;
+    color: #fff;
     cursor: pointer;
 
     -webkit-box-shadow: none;
