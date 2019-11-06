@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import icon from '../assets/icon.svg';
-import dataCategory from '../category.json';
+import dataCategory from '../database/category.json';
 import allCategories from './allCategories.css';
 
 import Category from './Category';

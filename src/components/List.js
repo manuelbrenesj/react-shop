@@ -1,10 +1,13 @@
 import React, { Component } from 'react';
 // import ropa1 from '../assets/ropa1.jpg';
-import jsonProduct from '../product.json';
+import jsonProduct from '../database/product.json';
 import list from './list.css';
 
 import Product from './Product';
-import Filter from './Filter';
+import FilterType from './filter/FilterType';
+import FilterSize from './filter/FilterSize';
+import FilterColor from './filter/FilterColor';
+import FilterPrice from './filter/FilterPrice';
 
 function List() {
 
@@ -12,7 +15,10 @@ function List() {
         <section className="list">
 
             <div className="list-filter">
-                <Filter/>
+                <FilterType/>
+                <FilterColor/>
+                <FilterSize/>
+                <FilterPrice/>
             </div>
             <div className="list-product">
                 {jsonProduct.map((prod, i) => 

@@ -8,7 +8,6 @@ header{
 }
 
 .navChild-A{
-    background-color: #706bbd;
     margin: 30px;
     cursor: pointer;
 } 
@@ -18,7 +17,7 @@ header{
 } 
 
 .child-A{
-    background-color: #cf903d;
+    color: #333;
     text-decoration: none;
     display: flex;
     justify-content: center;
@@ -29,12 +28,12 @@ header{
 } 
 
 .child-B{
-    background-color: #508d2d;
+    color: #333;
     text-decoration: none;
     display: flex;
     justify-content: center;
     align-items: center;
 
-    margin: 0 20px;
+    margin: 0 40px;
     cursor: pointer;
 } 

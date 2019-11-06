@@ -1,0 +1,105 @@
+.filter-section{
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    margin: 0 0 10px 0;
+
+    -webkit-box-shadow: 0px 0px 10px 5px #9c9c9c14;
+    -moz-box-shadow: 0px 0px 10px 5px #9c9c9c14;
+    box-shadow: 0px 0px 10px 5px #9c9c9c14;
+}
+
+.filter-name{
+    padding: 20px;
+}
+
+.filter-option{
+    padding: 10px 20px 20px 20px;
+    font-size: 16px;
+    color: #999;
+}
+.filter-option:last-child{
+    padding: 5px 20px 20px 20px;
+    font-size: 16px;
+}
+
+.filter-option:hover{
+    background-color: #7fc4f1;
+    cursor: pointer;
+    color: #fff;
+}
+
+.filter-option:active{
+    background-color: #449cd6;
+}
+
+/*-------------------- COLOR */
+.color-section{
+    display: flex;
+    justify-content: center;
+}
+
+.color{
+    width: 40px;
+    height: 40px;
+    border: 0.5px solid #aaa;
+    margin: 5px 5px 20px 5px;
+    background-color: #fff;
+}
+
+.color:hover{
+    cursor: pointer;
+}
+
+.black{ background-color: #313131;}
+.white{ background-color: #ffffff;}
+.red{ background-color: #7c1e1e;}
+.green{ background-color: #3c663c;}
+.blue{ background-color: #2f4a7c;}
+
+/*-------------------- TALLA */ 
+.size-section{
+    display: flex;
+    justify-content: center;
+}
+
+.size{
+    width: 40px;
+    height: 40px;
+    border: 0.5px solid #aaa;
+    margin: 5px 5px 20px 5px;
+    background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.size:hover{
+    background-color: #7fc4f1;
+    cursor: pointer;
+    color: #fff;
+}
+
+.size:active{
+    background-color: #449cd6;
+    cursor: pointer;
+}
+
+/*-------------------- PRECIO */ 
+.price-section{
+    display: flex;
+    justify-content: center;
+}
+
+.price-min{
+    width: 80px;
+    height: 30px;
+    margin: 0 10px 20px 10px;
+}
+
+.price-max{
+    width: 80px;
+    height: 30px;
+    margin: 0 10px 20px 10px;
+}

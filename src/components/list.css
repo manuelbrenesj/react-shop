@@ -3,10 +3,11 @@
     width: 100%;
     display: flex;
     justify-content: center;
+    margin-bottom: 50px;
 }
 
 .list-filter{
-    background-color: #f6f6f6;
+    background-color: #fafafa;
     width: 15%;
 }
 

@@ -16,6 +16,14 @@
 .hero-Txt{
     margin: 300px 0;
     cursor: pointer;
+
+    -webkit-box-shadow: 0px 0px 10px 5px #9c9c9c14;
+    -moz-box-shadow: 0px 0px 10px 5px #9c9c9c14;
+    box-shadow: 0px 0px 10px 5px #9c9c9c14;
+}
+
+.hero-Txt:hover{
+    color: #eee;
 }
 
 .heroButton{
@@ -30,10 +38,18 @@
     cursor: pointer;
 }
 
+.heroButton-A:hover{
+    background-color: #ac9d89;
+}
+
 .heroButton-B{
     background-color: #525B66;
     padding: 40px 0;
     width: 100%;
     text-align: center;
     cursor: pointer;
+}
+
+.heroButton-B:hover{
+    background-color: rgb(54, 60, 66);
 }

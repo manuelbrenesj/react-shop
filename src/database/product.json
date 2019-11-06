@@ -30,10 +30,10 @@
         "imagen": "https://images-na.ssl-images-amazon.com/images/I/A1xrNrYhwTL._UY879_.jpg"
     },
     {
-        "nombre": "Sudadera con cremallera",
-        "precio": "54",
-        "marca": "Lands' End Bedford Rib",
-        "imagen": "https://images-na.ssl-images-amazon.com/images/I/61eB5CtbCUL._UY879_.jpg"
+        "nombre": "Chaqueta para hombre",
+        "precio": "60",
+        "marca": "Lucky Brand",
+        "imagen": "https://images-na.ssl-images-amazon.com/images/I/A1HzSZRKTzL._UY879_.jpg"
     },
     {
         "nombre": "Camiseta de manga larga",
@@ -66,9 +66,9 @@
         "imagen": "https://images-na.ssl-images-amazon.com/images/I/91pZUxnI3wL._UY879_.jpg"
     },
     {
-        "nombre": "Chaqueta para hombre",
-        "precio": "60",
-        "marca": "Lucky Brand",
-        "imagen": "https://images-na.ssl-images-amazon.com/images/I/A1HzSZRKTzL._UY879_.jpg"
+        "nombre": "Sudadera con cremallera",
+        "precio": "54",
+        "marca": "Lands' End Bedford Rib",
+        "imagen": "https://images-na.ssl-images-amazon.com/images/I/61eB5CtbCUL._UY879_.jpg"
     }
 ]

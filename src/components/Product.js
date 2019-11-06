@@ -1,5 +1,4 @@
 import React from 'react';
-import ropa1 from '../assets/ropa1.jpg';
 import product from './product.css';
 
 function Product(props) {
