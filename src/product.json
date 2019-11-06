@@ -1,0 +1,74 @@
+[
+    {
+        "nombre": "Sudadera con cuello redondo",
+        "precio": "34",
+        "marca": "Gildan",
+        "imagen": "https://images-na.ssl-images-amazon.com/images/I/81-AvFdp3bL._SY879._SX._UX._SY._UY_.jpg"
+    },
+    {
+        "nombre": "Blusa con hombros descubiertos",
+        "precio": "20",
+        "marca": "Yidarton",
+        "imagen": "https://images-na.ssl-images-amazon.com/images/I/71DErLmBRPL._UY879_.jpg"
+    },
+    {
+        "nombre": "Jersey de manga larga",
+        "precio": "30",
+        "marca": "Zkess",
+        "imagen": "https://images-na.ssl-images-amazon.com/images/I/71g3c4WvDzL._UY879_.jpg"
+    },
+    {
+        "nombre": "Jersey de manga larga",
+        "precio": "30",
+        "marca": "BerryGo",
+        "imagen": "https://images-na.ssl-images-amazon.com/images/I/811SPMWzj-L._UY879_.jpg"
+    },
+    {
+        "nombre": "Sudadera para hombre",
+        "precio": "24",
+        "marca": "Wrangler Authentics",
+        "imagen": "https://images-na.ssl-images-amazon.com/images/I/A1xrNrYhwTL._UY879_.jpg"
+    },
+    {
+        "nombre": "Sudadera con cremallera",
+        "precio": "54",
+        "marca": "Lands' End Bedford Rib",
+        "imagen": "https://images-na.ssl-images-amazon.com/images/I/61eB5CtbCUL._UY879_.jpg"
+    },
+    {
+        "nombre": "Camiseta de manga larga",
+        "precio": "30",
+        "marca": "Lands' End Supima",
+        "imagen": "https://images-na.ssl-images-amazon.com/images/I/51mZ37upWhL._UY879_.jpg"
+    },
+    {
+        "nombre": "Suéter abierto de manga larga",
+        "precio": "60",
+        "marca": "Lands' End",
+        "imagen": "https://images-na.ssl-images-amazon.com/images/I/61uN1euszNL._UY879_.jpg"
+    },
+    {
+        "nombre": "Suéter abierto",
+        "precio": "28",
+        "marca": "Essentials Women's",
+        "imagen": "https://images-na.ssl-images-amazon.com/images/I/91SCVVrnZOL._UY879_.jpg"
+    },
+    {
+        "nombre": "Chamarra Sherpa",
+        "precio": "60",
+        "marca": "Levi 's",
+        "imagen": "https://images-na.ssl-images-amazon.com/images/I/91yY9JkVSQL._UY879_.jpg"
+    },
+    {
+        "nombre": "Chamarra con forro",
+        "precio": "120",
+        "marca": "Lucky Brand",
+        "imagen": "https://images-na.ssl-images-amazon.com/images/I/91pZUxnI3wL._UY879_.jpg"
+    },
+    {
+        "nombre": "Chaqueta para hombre",
+        "precio": "60",
+        "marca": "Lucky Brand",
+        "imagen": "https://images-na.ssl-images-amazon.com/images/I/A1HzSZRKTzL._UY879_.jpg"
+    }
+]

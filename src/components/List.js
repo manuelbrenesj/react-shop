@@ -1,34 +1,27 @@
 import React, { Component } from 'react';
-// import icon from '../assets/icon.svg';
-// import dataCategory from '../category.json';
+// import ropa1 from '../assets/ropa1.jpg';
+import jsonProduct from '../product.json';
 import list from './list.css';
 
 import Product from './Product';
+import Filter from './Filter';
 
 function List() {
-    
+
     return (
         <section className="list">
 
             <div className="list-filter">
-                Filtro
+                <Filter/>
             </div>
             <div className="list-product">
-                <Product/>
-                <Product/>
-                <Product/>
-                <Product/>
-
-                <Product/>
-                <Product/>
-                <Product/>
-                <Product/>
-                
-                <Product/>
-                <Product/>
-                <Product/>
-                <Product/>
-                {/* {dataCategory.map((book, i) => <Category name={book.category} key={i} icon={icon}/>)} */}
+                {jsonProduct.map((prod, i) => 
+                <Product 
+                nombre={prod.nombre} 
+                precio={prod.precio}
+                marca={prod.marca}
+                imagen={prod.imagen}
+                key={i}/>)}
             </div>
 
         </section>
