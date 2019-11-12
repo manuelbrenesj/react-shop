@@ -6,7 +6,7 @@
 }
 
 .heroMsj{
-    background-image: url(../assets/hero.jpg);
+    background-image: url(../../../assets/hero.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     display: flex;
@@ -14,7 +14,7 @@
 }
 
 .hero-Txt{
-    margin: 300px 0;
+    margin: 240px 0;
     cursor: pointer;
 
     -webkit-box-shadow: 0px 0px 10px 5px #9c9c9c14;

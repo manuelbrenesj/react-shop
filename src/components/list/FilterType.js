@@ -1,5 +1,5 @@
 import React from 'react';
-import filter from '../filter.css';
+import filter from './styles/filter.css';
 
 function Filter(props) {
 

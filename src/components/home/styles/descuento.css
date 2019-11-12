@@ -1,49 +1,59 @@
-.product{
-    background-color: #ffffff;
-    min-width: 250px;
-    max-width: 250px;
-    height: 400px;
+.discount{
+    background-color: #fff;
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
-    padding: 10px;
-    border: 0.5px solid #ffffff;
+    margin: 10px 5px;
+    padding: 30px 20px;
+    min-width: 250px;
+    max-width: 250px;
+    border-radius: 10px;
 
-    /* -webkit-box-shadow: 0px 0px 10px 5px #9c9c9c14;
+    -webkit-box-shadow: 0px 0px 10px 5px #9c9c9c14;
     -moz-box-shadow: 0px 0px 10px 5px #9c9c9c14;
-    box-shadow: 0px 0px 10px 5px #9c9c9c14; */
+    box-shadow: 0px 0px 10px 5px #9c9c9c14;
+    transition: 0.2s;
 }
 
-.product:hover{
+.discount:first-child{
+    margin-left: 10px;
 }
 
-.product-img{
+.discount:hover{
+    cursor: pointer;
+
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    transition: 0.2s;
+}
+
+.discount-img{
     background-color: #ffffff;
     width: 200px;
     height: 250px;
 }
 
-.product-name{
+.discount-name{
     font-size: 15px;
     font-weight: 600;
     padding: 10px 0 0 0;
 }
 
-.product-price{
+.discount-price{
     color: #861f1f;
     font-size: 15px;
     font-weight: 600;
     padding: 10px 0 0 0;
 }
 
-.product-brand{
+.discount-brand{
     font-size: 14px;
     font-weight: 400;
     padding: 10px 0 0 0;
 }
 
-.product-btn{
+.discount-btn{
     background-color: #f6f6f6;
     border: none;
     outline: none;
@@ -57,12 +67,11 @@
     margin: 10px 0 0 0;
 }
 
-.product-btn:hover{
+.discount-btn:hover{
     background-color: #7fc4f1;
     color: #fff;
 }
 
-.product-btn:active{
+.discount-btn:active{
     background-color: #449cd6;
 }
-

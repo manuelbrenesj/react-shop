@@ -1,0 +1,35 @@
+
+.allTxt:hover{
+    cursor: pointer;
+    color: skyblue;
+
+}
+
+.list-recomendation{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.recomendation-divA{
+    display: flex;
+    justify-content: center;
+    width: 75%;
+}
+
+.recomendation-divB{
+    display: flex;
+    overflow-x: auto;
+    margin-right: 10px;
+}
+
+.recomendation-divB::-webkit-scrollbar{
+    height: 10px;
+}
+
+.recomendation-divB::-webkit-scrollbar-thumb{
+    background: #ddd;
+}
+
+

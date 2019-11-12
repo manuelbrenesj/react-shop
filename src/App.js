@@ -4,19 +4,17 @@ import './style.css';
 import './App.css';
 
 import Header from './components/Header';
-import Hero from './components/Hero';
-import AllCategories from './components/AllCategories';
-import List from './components/List';
-import Pages from './components/Pages';
+import Footer from './components/Footer';
+import Home from './components/home/Home';
+import List from './components/list/List';
 
 function App() {
   return (
     <div>
       <Header/>
-      <Hero/>
-      <AllCategories/>
+      <Home/>
       <List/>
-      <Pages/>
+      <Footer/>
     </div>
   );
 }

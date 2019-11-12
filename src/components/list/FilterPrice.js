@@ -1,5 +1,5 @@
 import React from 'react';
-import filter from '../filter.css';
+import filter from './styles/filter.css';
 
 function Filter(props) {
 
@@ -14,6 +14,10 @@ function Filter(props) {
                 <p>-</p>
                 <input className="price-max" placeholder=" Max"></input>
             </div>
+
+            <button className="filter-btn">
+                Buscar
+            </button>
         </section>
     )
 }

@@ -1,0 +1,37 @@
+.all{
+    display: flex;
+    justify-content: center;
+}
+
+.allTxt{
+    color: #333;
+    margin: 40px 0;
+    cursor: pointer;
+}
+
+.categories{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-bottom: 40px;
+}
+
+.categories-divA{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+}
+
+.categories-divB{
+    display: flex;
+    overflow-x: auto;
+    margin-right: 10px;
+}
+
+.categories-divB::-webkit-scrollbar{
+    height: 10px;
+}
+
+.categories-divB::-webkit-scrollbar-thumb{
+    background: #ddd;
+}

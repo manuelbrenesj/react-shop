@@ -1,0 +1,33 @@
+.footer{
+    margin-top: 100px;
+    height: 500px;
+    background-color: #525B66;
+    color: #fff;
+
+    display: flex;
+    justify-content: center;
+}
+
+.foot{
+    min-width: 300px;
+    margin: 100px;
+}
+
+.foot-title{
+    margin: 0 0 20px 0;
+}
+
+.foot-option{
+    color: #bbb;
+    margin: 10px 0 0 0;
+}
+
+.foot-option:hover{
+    color: rgb(154, 235, 255);
+    cursor: pointer;
+}
+
+.foot-option:active{
+    color: rgb(105, 191, 212);
+    cursor: pointer;
+}

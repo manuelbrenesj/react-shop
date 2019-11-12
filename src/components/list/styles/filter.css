@@ -103,3 +103,21 @@
     height: 30px;
     margin: 0 10px 20px 10px;
 }
+
+.filter-btn{
+    margin: 0 45px 20px 45px;
+    height: 40px;
+    border-style: none;
+    background-color: #f6f6f6;
+}
+
+.filter-btn:hover{
+    cursor: pointer;
+    background-color: #7fc4f1;
+    color: #fff;
+}
+
+.filter-btn:active{
+    background-color: #449cd6;
+    color: #fff;
+}

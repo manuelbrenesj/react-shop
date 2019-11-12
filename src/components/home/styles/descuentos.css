@@ -1,0 +1,26 @@
+.list-discounts{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-bottom: 40px;
+}
+
+.discounts-divA{
+    display: flex;
+    justify-content: center;
+    width: 75%;
+}
+
+.discounts-divB{
+    display: flex;
+    overflow-x: auto;
+    margin-right: 10px;
+}
+
+.discounts-divB::-webkit-scrollbar{
+    height: 10px;
+}
+
+.discounts-divB::-webkit-scrollbar-thumb{
+    background: #ddd;
+}

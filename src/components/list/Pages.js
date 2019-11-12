@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import pages from './pages.css';
+import pages from './styles/pages.css';
 
 function Pages() {
     

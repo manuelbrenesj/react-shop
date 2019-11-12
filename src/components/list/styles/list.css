@@ -1,4 +1,18 @@
-.list{
+.list-A{
+    background-color: #ac9d89;
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    margin-bottom: 40px;
+    color: #fff;
+
+    -webkit-box-shadow: 0px 0px 10px 5px #9c9c9c14;
+    -moz-box-shadow: 0px 0px 10px 5px #9c9c9c14;
+    box-shadow: 0px 0px 10px 5px #9c9c9c14;
+    transition: 0.2s;
+}
+
+.list-B{
     background-color: #fafafa;
     width: 100%;
     display: flex;
